@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "filename": "esp32-c3-supermini-kit-kicad.kicad_pro",
+    "version": 3
+  },
+  "text_variables": {
+    "PROJECT": "esp32-c3-supermini-kit-kicad",
+    "REVISION": "dev"
+  }
+}
